@@ -5,7 +5,7 @@ This repo serves as a stop to store all the code related to the implementation a
 Steps to reproduce reusults of implementation:
 <ol>
 <li>Install CloudSim. Follow instructions here https://www.cloudsimtutorials.online/cloudsim-setup-using-eclipse/
-<li> Extract the zip file: load_balancing_simulation.zip
+<li> Extract the zip file: Cloudsim_backup.zip
 <li> Import the source code and compile the java files to visualize the output.
 </ol>
 
