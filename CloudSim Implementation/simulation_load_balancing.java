@@ -268,10 +268,7 @@ public class CloudSimExample6 {
 			
 			Log.print("=============> User "+brokerId1+"    ");
 			printCloudletList(newList1);
-			
-			Log.printLine(allocations[2]);
-			
-			Log.printLine("CloudSimExample6 finished!");
+		
 		}
 		catch (Exception e)
 		{
