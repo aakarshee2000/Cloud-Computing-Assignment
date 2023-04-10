@@ -260,13 +260,13 @@ public class CloudSimExample6 {
 			CloudSim.stopSimulation();
 			
 			// Final step: Print results when simulation is over
-			Log.print("=============> User "+brokerId3+"    ");
+			Log.print("=============> User "+(brokerId3 - 4)+"    ");
 			printCloudletList(newList3);
 			
-			Log.print("=============> User "+brokerId2+"    ");
+			Log.print("=============> User "+(brokerId2 - 4)+"    ");
 			printCloudletList(newList2);
 			
-			Log.print("=============> User "+brokerId1+"    ");
+			Log.print("=============> User "+(brokerId1 - 4)+"    ");
 			printCloudletList(newList1);
 		
 		}
